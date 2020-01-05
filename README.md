@@ -141,7 +141,7 @@ ________________________________________________________________________________
 
 ### Code and CAD Files
 
-[GPS Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/parky_gps.py)
+[GPS Code](https://github.com/barkadosh1/Parky/blob/master/parky_gps.py)
 
 [Computer Vision Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/detect_circles.py)
 
