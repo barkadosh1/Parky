@@ -1,6 +1,6 @@
-# IDD Final Project: Parky - AI Parking Assistant
+Parky
 
-#### Eduardo Castillo (EC833), Bar Kadosh (BK497), Ben Kadosh (BK499), & Jeremy Walker (JDW342)
+#### Bar Kadosh, Ben Kadosh, Eduardo Castillo, & Jeremy Walker 
 
 <p align="center">
   <img src="https://github.com/barkadosh1/Parky/blob/master/Parky_Intro.png" width="600" height="420">
