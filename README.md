@@ -143,7 +143,7 @@ ________________________________________________________________________________
 
 [GPS Code](https://github.com/barkadosh1/Parky/blob/master/parky_gps.py)
 
-[Computer Vision Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/detect_circles.py)
+[Computer Vision Code](https://github.com/barkadosh1/Parky/blob/master/detect_circles.py)
 
 [Pi Camera](https://github.com/barkadosh1/Parky/blob/master/raspi%20camera.SLDPRT)
 
